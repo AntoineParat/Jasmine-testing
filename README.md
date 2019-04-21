@@ -14,7 +14,7 @@ In this project i was given a web-based application that reads RSS feeds, and i 
 
 ## Installation
 
-Browse the folder and open the index.html file
+Clone or download, then browse the folder and open the index.html file
 
 ## How does it run ?
 
