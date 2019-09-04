@@ -1,11 +1,12 @@
 # Javascript tools and testing
 
+![enter image description here](https://www.antoineparat.com/img/jasmine.png)
+
 ## Table of Contents
 
 * [Project Details](#Project-Details)
 * [Installation](#Installation)
 * [How does it run ?](#How-does-it-run-?)
-* [Thanks](#thanks)
 
 # Project Details 
 
