@@ -22,6 +22,3 @@ Clone or download, then browse the folder and open the index.html file
 * By default, menu is hidden and "Udacity Blog" feed is displayed.
 * Feel free to click on the menu icon to choose an other feed like "CSS  Tricks" or "HTML5 Rocks". 
 * Clicking on the article's title that you would like to read will open the link to original feed provider. 
-
-### thanks
-[Udacity Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)
